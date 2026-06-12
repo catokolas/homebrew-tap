@@ -8,7 +8,7 @@ cask "macspoonstweaks" do
   homepage "https://github.com/catokolas/MacSpoonsTweaks"
 
   depends_on cask: "hammerspoon"
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
 
   app "MacSpoonsTweaks.app"
 
