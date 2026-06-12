@@ -1,9 +1,9 @@
 cask "macspoonstweaks" do
-  version "0.2.0"
-  sha256 "6a2ea1fb525f91268c9ca9cd6771118ab0dfc8b958e420c7a7c42942ca866c9c"
+  version "0.2.1"
+  sha256 "d8b00d7f0629f4e27d3851038f84dc096fd81c12d2f4948674a3196e86c2d040"
 
   url "https://github.com/catokolas/MacSpoonsTweaks/releases/download/v#{version}/MacSpoonsTweaks-#{version}.zip"
-  name "MacSpoonsTweaks"
+  name "Mac Spoons Tweaks"
   desc "SwiftUI companion for Hammerspoon Spoons"
   homepage "https://github.com/catokolas/MacSpoonsTweaks"
 
