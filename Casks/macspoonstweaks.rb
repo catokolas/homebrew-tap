@@ -16,3 +16,4 @@ cask "macspoonstweaks" do
     "~/Library/Application Support/MacSpoonsTweaks",
     "~/Library/Caches/MacSpoonsTweaks",
   ]
+end
