@@ -1,6 +1,6 @@
 cask "macspoonstweaks" do
-  version "0.3.1"
-  sha256 "59dd35d27da197136ed5d3907aa02cac91e9bc0b7c723075f04dfdfea258f961"
+  version "0.3.2"
+  sha256 "1fa871c18ca5e46092bb1886b5bd41bdc0070cc98d11dcb684f012a950d1c591"
 
   url "https://github.com/catokolas/MacSpoonsTweaks/releases/download/v#{version}/MacSpoonsTweaks-#{version}.zip"
   name "Mac Spoons Tweaks"
