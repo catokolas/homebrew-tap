@@ -1,6 +1,6 @@
 cask "modelsusage" do
-  version "0.1.0"
-  sha256 "0afc4a18d29e6d8b46473b7e0a8ed3de67f2016c6b1f78ca36acc36ba1395a08"
+  version "0.1.1"
+  sha256 "31a792ade3347bffeeed5b226c75ef1c6eb041c32bc72a58725ba409d7d08520"
 
   url "https://github.com/catokolas/ModelsUsage/releases/download/v#{version}/ModelsUsage-#{version}.zip"
   name "Models Usage"
